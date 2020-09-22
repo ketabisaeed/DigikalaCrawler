@@ -1,6 +1,6 @@
 # Digikala Crawler
 
-####Installation:
+#### Installation:
 First clone the project, then install required packages:
     
     $ git clone https://github.com/ketabisaeed/DigikalaCrawler.git
@@ -11,7 +11,7 @@ Then add project directory to PYTHONPATH:
 
     $ export PYTHONPATH=.
     
-####Running the Crawler:
+#### Running the Crawler:
 
 For now, you can start the crawler via running comments.py script in the crawlers folder.
     
