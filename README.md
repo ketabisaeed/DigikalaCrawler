@@ -15,7 +15,7 @@ Then add project directory to PYTHONPATH:
 
 For now, you can start the crawler via running comments.py script in the crawlers folder.
     
--
+----
 
 * Author: Saeed Ketabi
 * Email: saeed.ketabi@gmail.com
